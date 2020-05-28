@@ -1,12 +1,12 @@
 # Animal Shelter
 
-#### CSS Cascading and Box Model practice for Epicodus, 05.28.2020
+#### CSS Cascading, Media Queries and Box Model practice for Epicodus, 05.28.2020
 
 #### By Brittany Lindgren and James Henager 
 
 ## Description
 
-This project uses the box model and CSS cascading to present different animals for adoption.
+This project uses the box model and CSS cascading to present different animals for adoption. It utilizes media queries to create a responsive website.
 
 ## Setup/Installation Requirements
 
