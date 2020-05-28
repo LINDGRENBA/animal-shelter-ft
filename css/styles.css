@@ -1,0 +1,17 @@
+.animal {
+  float: left;
+  margin: 20px;
+  padding: 10px;
+}
+
+.doug {
+  background-color: lightcoral;
+}
+
+.skippy {
+  background-color: lightseagreen;
+}
+
+.chuchu {
+  background-color: lightpink;
+}
